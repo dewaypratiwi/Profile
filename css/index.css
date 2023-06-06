@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: white;    
 }
 
 .footer>p {
@@ -310,13 +310,13 @@ header{
 section {
     margin: auto;
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 }
 
 .kolom {
     margin-top: 40px;
-    margin-bottom: 40px;
-    margin-left: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px;
 }
 
 p {
